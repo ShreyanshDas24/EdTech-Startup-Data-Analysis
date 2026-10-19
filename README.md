@@ -3,7 +3,6 @@
 A Power BI dashboard built for a fictional EdTech startup that wants to expand its recorded-lecture catalogue. I cleaned a messy multi-site course scrape, answered nine business questions about it, and put the answers on a single dashboard. Everything is organised category-first, since that was the main thing the client cared about.
 
 
-\---
 
 ## The brief
 
@@ -19,7 +18,7 @@ The startup pulled course data from several EdTech sites and didn't know what to
 
 |||
 |-|-|
-|File|`Online\_Courses.csv`|
+|File|`Online_Courses.csv`|
 |Raw size|8,092 rows x 45 columns|
 |Sources|Coursera, FutureLearn, Udacity, Simplilearn|
 |Usable rows|2,819 (the Coursera records, the only source with category, sub-category, viewers and rating filled in)|
@@ -108,6 +107,4 @@ These come straight from the dashboard.
 ## Author
 
 **Shreyansh Kumar Das**
-M.Sc. Data Science | Python, R, SQL, Power BI
-[LinkedIn](#) | [GitHub](#)
 
