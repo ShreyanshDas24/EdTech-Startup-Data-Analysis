@@ -107,4 +107,5 @@ These come straight from the dashboard.
 ## Author
 
 **Shreyansh Kumar Das**
+MSc. Data Science
 
