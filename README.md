@@ -2,7 +2,6 @@
 
 A Power BI dashboard built for a fictional EdTech startup that wants to expand its recorded-lecture catalogue. I cleaned a messy multi-site course scrape, answered nine business questions about it, and put the answers on a single dashboard. Everything is organised category-first, since that was the main thing the client cared about.
 
-!\[Dashboard](images/dashboard.png)
 
 \---
 
@@ -86,7 +85,7 @@ These come straight from the dashboard.
 ```
 .
 ├── data/
-│   └── Online\_Courses.csv
+│   └── Online_Courses.csv
 ├── assets/
 │   └── dashboard.png
 ├── Dashboard.pbix
@@ -108,7 +107,7 @@ These come straight from the dashboard.
 
 ## Author
 
-**Shreyansh**
+**Shreyansh Kumar Das**
 M.Sc. Data Science | Python, R, SQL, Power BI
 [LinkedIn](#) | [GitHub](#)
 
